@@ -6,7 +6,7 @@
 ## I'm a Loner, a Tech Enthusiast and a budding Cloud Engineer!!
 
 - 🔭 I just launched my Medium account: [I'd produce content, I promise!😉][blog]!
-- 🌱 I’m currently learning Devops and Aws stuff
+- 🌱 I’m currently learning Devops and AWS stuff
 - 👯 I’m looking to collaborate with any and everyone
 - 🥅 2022 Goals: Contribute more on Github, Break into IT and write blogs
 - ⚡ Fun fact: I love Lofi more than I should
