@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=Medium&style=for-the-badge&url=https%3A%2F%2Fmedium.com)](https://medium.com/@agyemang.nana.b)
 [![Twitter Follow](https://img.shields.io/twitter/follow/v_sxntana?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNana-Seyramr&screen_name=v_sxntana)
 
-## I'm a Loner, a Tech Enthusiast and a budding Cloud Engineer!!
+## I'm a Tech Enthusiast and a budding Cloud Engineer!!
 
 - 🔭 I just launched my Medium account: [I'd produce content, I promise!😉][blog]!
 - 🌱 I’m currently learning Devops and AWS stuff
