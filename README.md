@@ -22,6 +22,6 @@
 
 
 [blog]: https://medium.com/@agyemang.nana.b
-[twitter]: https://twitter.com/v_sxntana
+[twitter]: https://twitter.com/_bxffour
 [instagram]: https://instagram.com/v_sxntana
 [linkedin]: https://linkedin.com/in/nana-agyemang
