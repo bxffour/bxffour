@@ -23,5 +23,5 @@
 
 [blog]: https://medium.com/@agyemang.nana.b
 [twitter]: https://twitter.com/_bxffour
-[instagram]: https://instagram.com/v_sxntana
+[instagram]: https://instagram.com/_nana.baffour
 [linkedin]: https://linkedin.com/in/nana-agyemang
