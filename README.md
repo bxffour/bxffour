@@ -34,7 +34,10 @@
 </div>
 <br>
 
-# My Statistics
+<h1 align="center">
+  <b>My Statistics</b>
+</h1>
+
 <br/>
 <p align="left">
   <a href="https://github.com/bxffour">
@@ -60,13 +63,13 @@
 
 <div align="center">
     <a href="https://twitter.com/_bxffour">
-    <img align="center" alt="codeSTACKr | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+    <img align="center" alt="Twitter | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
     <a href="https://instagram.com/_nana.baffour">
-    <img align="center" alt="codeSTACKr | Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img align="center" alt="Instagram | Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     <a href="https://linkedin.com/in/nana-agyemang">
-    <img align="center" alt="codeSTACKr | Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" alt="LinkedIn | Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     <a href="https://instagram.com/_nana.baffour">
-    <img align="center" alt="codeSTACKr | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img align="center" alt="Medium | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </div>
 <br />
 
