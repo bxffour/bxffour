@@ -1,7 +1,6 @@
-### Hi there, I'm Nana Kwadwo - aka [sxntana][twitter] 👋 
-
-[![Website](https://img.shields.io/website?label=Medium&style=for-the-badge&url=https%3A%2F%2Fmedium.com)](https://medium.com/@agyemang.nana.b)
-[![Twitter Follow](https://img.shields.io/twitter/follow/v_sxntana?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbxffourr&screen_name=_bxffour)
+<h1 align="center">
+  <b>Nana Kwadwo</b>
+</h1>
 
 ## I'm a Tech Enthusiast and a budding DevOps Engineer!!
 
@@ -11,17 +10,65 @@
 - 🥅 2022 Goals: Contribute more on Github, Break into IT and write blogs
 - ⚡ Fun fact: I love Lofi more than I should
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br>
 
-<br />
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)">
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF">
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
+</div>
+</p>
+
+---
+
+<br/>
+<div align="center">
+  <a href="https://open.spotify.com/user/73q2f8s9wwo6mha2004cxckyx">
+    <img src="https://novatorem-bxffour.vercel.app/api/spotify?background_color=282828&border_color=282828">
+  </a>
+</div>
+<br>
+
+# My Statistics
+<br/>
+<p align="left">
+  <a href="https://github.com/bxffour">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bxffour&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bxffour&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+<center>
+
+[![Nana Kwadwo's Activity Graph](https://activity-graph.herokuapp.com/graph?username=bxffour&custom_title=Nana%20Kwadwo's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/bxffour)
+</center>
+
+<br>
+
+<h2 align="center">
+  <b>Connect With Me</b>
+</h2>
 
 ---
 
 
+<div align="center">
+    <a href="https://twitter.com/_bxffour">
+    <img align="center" alt="codeSTACKr | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+    <a href="https://instagram.com/_nana.baffour">
+    <img align="center" alt="codeSTACKr | Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <a href="https://linkedin.com/in/nana-agyemang">
+    <img align="center" alt="codeSTACKr | Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://instagram.com/_nana.baffour">
+    <img align="center" alt="codeSTACKr | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</div>
+<br />
+
+
 [blog]: https://medium.com/@agyemang.nana.b
-[twitter]: https://twitter.com/_bxffour
-[instagram]: https://instagram.com/_nana.baffour
-[linkedin]: https://linkedin.com/in/nana-agyemang
