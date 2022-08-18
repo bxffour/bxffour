@@ -2,7 +2,7 @@
   <b>Nana Kwadwo</b>
 </h1>
 
-## I'm a Tech Enthusiast and a budding DevOps Engineer!!
+## DevOps Engineer!!
 
 - 🔭 I just launched my Medium account: [I'd produce content, I promise!😉][blog]!
 - 🌱 I’m currently learning Devops and Cloud stuff
