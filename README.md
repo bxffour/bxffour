@@ -1,7 +1,7 @@
 ### Hi there, I'm Nana Kwadwo - aka [sxntana][twitter] 👋 
 
 [![Website](https://img.shields.io/website?label=Medium&style=for-the-badge&url=https%3A%2F%2Fmedium.com)](https://medium.com/@agyemang.nana.b)
-[![Twitter Follow](https://img.shields.io/twitter/follow/v_sxntana?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNana-Seyramr&screen_name=v_sxntana)
+[![Twitter Follow](https://img.shields.io/twitter/follow/v_sxntana?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNana-Seyramr&screen_name=_bxffour)
 
 ## I'm a Tech Enthusiast and a budding DevOps Engineer!!
 
