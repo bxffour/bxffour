@@ -73,7 +73,5 @@
     <a href="https://instagram.com/_nana.baffour">
     <img align="center" alt="Medium | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </div>
-<br />
-
 
 [blog]: https://medium.com/@agyemang.nana.b
