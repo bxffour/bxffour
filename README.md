@@ -27,24 +27,6 @@
 
 ---
 
-<h1 align="center">
-  <b>My Statistics</b>
-</h1>
-
-<br/>
-<p align="left">
-  <a href="https://github.com/bxffour">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bxffour&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bxffour&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-<center>
-
-[![Nana Kwadwo's Activity Graph](https://activity-graph.herokuapp.com/graph?username=bxffour&custom_title=Nana%20Kwadwo's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/bxffour)
-</center>
-
 <br>
 
 <h2 align="center">
