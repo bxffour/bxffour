@@ -27,14 +27,6 @@
 
 ---
 
-<br/>
-<div align="center">
-  <a href="https://open.spotify.com/user/73q2f8s9wwo6mha2004cxckyx">
-    <img src="https://novatorem-bxffour.vercel.app/api/spotify?background_color=282828&border_color=282828">
-  </a>
-</div>
-<br>
-
 <h1 align="center">
   <b>My Statistics</b>
 </h1>
