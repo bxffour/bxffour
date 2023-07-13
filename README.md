@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Devops and Cloud stuff
 - 👯 I’m looking to collaborate with any and everyone
-- 🥅 2022 Goals: Contribute more on Github, Break into IT and write blogs
+- 🥅 2023 Goals: Contribute more on Github, Break into IT and write blogs
 - ⚡ Fun fact: I love Lofi more than I should
 
 <br>
