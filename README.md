@@ -1,8 +1,8 @@
 👋 Hi, I'm Nana Kwadwo
 
-🔧 Systems Engineer / Devops / SRE
-🌐 Building Reliable Foundations
-🔍 Co-Founder of a Low-Level [Research Group](https://github.com/thi-startup)
+- 🔧 Systems Engineer / Devops / SRE
+- 🌐 Building Reliable Foundations
+- 🔍 Co-Founder of a Low-Level [Research Group](https://github.com/thi-startup)
 
 🤝 Let's Connect:
 - User-Centric Problem Solver
