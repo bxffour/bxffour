@@ -2,6 +2,13 @@
 
 🔧 Systems Engineer / Devops / SRE
 🌐 Building Reliable Foundations
+🔍 [Co-Founder of a Low-Level Research Group](https://github.com/thi-startup)
+
+🤝 Let's Connect:
+- User-Centric Problem Solver
+- Building Tooling around Firecracker
+- Passionate about operational excellence
+- Currently Learning Rust & Exploring Unikernels
 
 🚀 Toolbox:
 - Linux, Kubernetes, AWS
@@ -13,7 +20,6 @@
 - Microkernels (Unikraft)
 - Ebpf/XDP
 - Distributed Systems
-- R&D Initiatives
 - Linux Internals
 - Open-Source
 
