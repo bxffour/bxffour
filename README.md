@@ -2,7 +2,7 @@
 
 🔧 Systems Engineer / Devops / SRE
 🌐 Building Reliable Foundations
-🔍 [Co-Founder of a Low-Level Research Group](https://github.com/thi-startup)
+🔍 Co-Founder of a Low-Level [Research Group](https://github.com/thi-startup)
 
 🤝 Let's Connect:
 - User-Centric Problem Solver
