@@ -1,7 +1,7 @@
 👋 Hi, I'm Nana Kwadwo
 
 📝 What I Do:
-- I currently work as a Systems Engineer.
+- I currently work as a DevOps Engineer.
 - Co-Founder of a Low-Level [Research Group](https://github.com/thi-startup) 🔍
 - Share my progress and thoughts through my tweets
 - Love to chat about Systems Engineering, DevOps, SRE, and everything Tech 😄
